@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520308142005",
+    "firebase_url": "https://temperature-monitor-speedgate.firebaseio.com",
+    "project_id": "temperature-monitor-speedgate",
+    "storage_bucket": "temperature-monitor-speedgate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520308142005:android:11e0fb674816eae66b73fc",
+        "android_client_info": {
+          "package_name": "com.example.speedgateauthenticate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520308142005-9buc78kpc757ao8maupu0sfq2bhoas9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCsZPKgqZBJ-AvxPVbZqmdYz9-jXhIcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520308142005-9buc78kpc757ao8maupu0sfq2bhoas9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#57709B</color>
+    <color name="colorPrimaryDark">#14275B</color>
+    <color name="color_inactive">#bdbdbd</color>
+
+    <color name="baby_pink">#F6CFD4</color>
+    <color name="peaceful_green">#CFE6C3</color>
+    <color name="warning_yellow">#FFEC8E</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="slight_blue_gray">#F3F5F7</color>
+    <color name="sunny_pebble_gray">#DADCDA</color>
+    <color name="cool_shade_gray">#B6BDC2</color>
+    <color name="black">#FF000000</color>
+</resources>

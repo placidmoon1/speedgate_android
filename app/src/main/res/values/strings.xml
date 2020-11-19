@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Speedgate Authenticate</string>
+    <string name="menu_item1_title">현재 상태</string>
+    <string name="menu_item2_title">기록</string>
+    <string name="menu_item3_title">QR 코드</string>
+    <string name="cur_state_card_title">현재 상태</string>
+    <string name="state_card_placeholder">현재 체온은 35도 입니다.</string>
+    <string name="temp_card_title">체온</string>
+    <string name="temp_card_placeholder">36.5</string>
+    <string name="env_card_title">현재 온도</string>
+    <string name="env_card_placeholder">25.5</string>
+    <string name="dust_card_title">미세먼지</string>
+    <string name="dust_card_placeholder">37</string>
+    <string name="env_humidity_card_title">습도</string>
+    <string name="env_humidity_card_placeholder">55</string>
+    <string name="weight_card_title">몸무게</string>
+    <string name="weight_card_placeholder">56.7</string>
+    <string name="noise_card_title">소음량</string>
+    <string name="noise_card_placeholder">56</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temp_card_symbol">°C</string>
+    <string name="env_card_symbol">°C</string>
+    <string name="env_humidity_card_symbol">%</string>
+    <string name="weight_card_symbol">kg</string>
+    <string name="sound_card_symbol">dB</string>
+</resources>
